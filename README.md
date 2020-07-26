@@ -13,7 +13,7 @@
  <hr />
 
 <p align="center">
-    <b> Languages and tools </b>
+    <b> My favorite languages </b>
 </p>
 
 <p align="center">
@@ -21,6 +21,6 @@
     <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/flutter.png"></code>
     <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/swift.webp"></code>
     <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/javascript.png"></code>
-    <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/images/languages/python.png"></code>
+    <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/python.png"></code>
 </p>
 
