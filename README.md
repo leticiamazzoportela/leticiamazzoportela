@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://dribbble.com/shots/8230213-World-Sleep-Day">
-    <img src="https://cdn.dribbble.com/users/2683272/screenshots/8230213/media/62467bca2a74fb63d14f4dab8e02703c.jpg" alt="cat" height="350"/>
+    <img src="https://cdn.dribbble.com/users/2683272/screenshots/8230213/media/62467bca2a74fb63d14f4dab8e02703c.jpg" alt="cat" max-height="350"/>
   </a>
 </p>
 
@@ -13,7 +13,7 @@
  <hr />
 
 <p align="center">
-    <b> My favorite languages </b>
+    <b> My favorite languages and tools </b>
 </p>
 
 <p align="center">
