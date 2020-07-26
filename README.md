@@ -1,16 +1,26 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://dribbble.com/shots/8230213-World-Sleep-Day">
+    <img src="https://cdn.dribbble.com/users/2683272/screenshots/8230213/media/62467bca2a74fb63d14f4dab8e02703c.jpg" alt="cat" height="350"/>
+  </a>
+</p>
 
-<!--
-**leticiamazzoportela/leticiamazzoportela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <p align="center">
+    Hi, I'm Letícia Mazzo Portela <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="23px">
+    <br>
+    A Mobile Developer, who loves creating solutions that will make differences in people's life. I 💙 Flutter developing and also Swift/iOS.
+ </p>
 
-Here are some ideas to get you started:
+ <hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <b> Languages and tools </b>
+</p>
+
+<p align="center">
+    <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/images/languages/dart.png"></code>
+    <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/images/languages/flutter.png"></code>
+    <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/images/languages/swift.webp"></code>
+    <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/images/languages/javascript.png"></code>
+    <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/images/languages/python.png"></code>
+</p>
+
