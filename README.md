@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
-    <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/images/languages/dart.png"></code>
-    <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/images/languages/flutter.png"></code>
-    <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/images/languages/swift.webp"></code>
-    <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/images/languages/javascript.png"></code>
+    <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/dart.png"></code>
+    <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/flutter.png"></code>
+    <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/swift.webp"></code>
+    <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/javascript.png"></code>
     <code><img height="25" src="https://raw.githubusercontent.com/leticiamazzoportela/leticiamazzoportela/master/assets/images/languages/python.png"></code>
 </p>
 
