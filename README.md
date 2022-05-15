@@ -4,5 +4,3 @@
     A Mobile Developer, who loves creating solutions that will make differences in people's life.
  </p>
 
- <hr />
-
